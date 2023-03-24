@@ -1,5 +1,5 @@
 /* Nama File    : JumPrima_fungsi.c */
-/* Deskripsi    : Mengecek apakah bilangan prima atau bukan   */
+/* Deskripsi    : Penjumlahan dari elemen bilangan prima yang terbentuk dari deret tersebut   */
 /* Pembuat      : Abdul Majid - 24060122120035 */
 /* Tanggal Pembuatan : 24 Maret  2023 */
 
